@@ -61,6 +61,7 @@ endmodule
 
 
 **RTL realization**
+
 i)
 ![Screenshot (27)](https://github.com/user-attachments/assets/16d2c2c1-bcf7-485b-a59a-39df1e4994ab)
 
@@ -69,6 +70,7 @@ ii)
 
 
 **Output:**
+
 i)
 ![exp2 ss](https://github.com/user-attachments/assets/fbf70f26-0fbd-4909-85a2-a5b4455f32a1)
 
